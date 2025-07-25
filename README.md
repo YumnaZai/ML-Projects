@@ -6,8 +6,10 @@ Machine Learning Models
 
 Supervised Learning Algorithms
 Linear Regression
-📌 Used for: Predicting continuous values
 📍 Example: Predicting house prices based on features like size and location
+- Models Build = Predicting salary of position
+               = Predict student score
+               = Predict petrol cunsumption of a country
 
 Logistic Regression
 📌 Used for: Binary classification
