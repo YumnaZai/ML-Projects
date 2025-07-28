@@ -6,14 +6,15 @@ Machine Learning Models
 
 Supervised Learning Algorithms
 Linear Regression
-📍 Example: Predicting house prices based on features like size and location
-- Models Build = Predicting salary of position
-               = Predict student score
-               = Predict petrol cunsumption of a country
+- Models Build - > Regression model = Predicting salary of position(Simple Linear Regression)
+                                    = Predict student score(Simple Linear Regression)
+                                    = Predict petrol cunsumption of a country(Multiple Linear Regression)
+=  Randon dataset based on numpy(Polinomial Regression)
 
-Logistic Regression
-📌 Used for: Binary classification
-📍 Example: Predicting whether an email is spam or not
+Logistic Regression/Classification
+- Models Build -> ANN = Indicating "good" or "bad" radar returns(Binary Classification)
+                  ANN = predict the price range of mobile phones(Binary Classification)
+
 
 Decision Trees
 📌 Used for: Classification and regression
