@@ -10,6 +10,7 @@ ML PROBLEM TYPE
       = Predict petrol cunsumption of a country(Multiple Linear Regression)
       = Predicting solubility of molecules(Multiple Linear Regression)
       = Predicting diabetese diagnosis
+      
  📌 Decision Trees
 
  📌 Random Forest
