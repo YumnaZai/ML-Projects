@@ -12,16 +12,10 @@ ML PROBLEM TYPE
       = Predicting diabetese diagnosis
       
  📌 Decision Trees
+    = Diabetese Prediction
 
  📌 Random Forest
       =  Random Forest = Predicting solubility of molecules
-
-
-
-
-
-
-
 
 📍 Classification
 
@@ -49,4 +43,7 @@ ML PROBLEM TYPE
     Used for: Text classification
     = Sentiment analysis on customer reviews
     = Predicting if a message is a spam or ham
-    
+
+   📍Clustering
+   - Partition Clustering =  Grouping similar players
+   - Hirarchical Clustering =  grouping different merchant offers
