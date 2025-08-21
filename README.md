@@ -1,4 +1,4 @@
-Repository Overview - This repository contains multiple machine learning models designed using various algorithms.
+# Repository Overview - This repository contains multiple machine learning models designed using various algorithms.
 
 Table of Contents
 Model 1: Mobile Phone Price Prediction (Logistic Regression) - https://github.com/YumnaZai/ML-Projects/blob/main/ANN-Binary_Classification.ipynb
@@ -21,7 +21,7 @@ Model 9 : Predict molecule solubility (Linear Regression $ Random Forest) - http
 
 
 
-# ML-Projects
+## ML-Projects
 Machine Learning Models
 ML PROBLEM TYPE
 
