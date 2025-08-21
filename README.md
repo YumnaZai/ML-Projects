@@ -1,21 +1,23 @@
 Repository Overview - This repository contains multiple machine learning models designed using various algorithms.
 
 Table of Contents
-1. Model 1: Mobile Phone Price Predisction (ANN) - https://github.com/YumnaZai/ML-Projects/blob/main/ANN-Binary_Classification.ipynb
-2. 
+Model 1: Mobile Phone Price Prediction (Logistic Regression) - https://github.com/YumnaZai/ML-Projects/blob/main/ANN-Binary_Classification.ipynb
 
+Model 2 : Twitter Sentiment Analysis (Logistic Regression) - https://github.com/YumnaZai/ML-Projects/blob/main/Calssification-Logistic_Regression.ipynb
 
+Model 3 : Classify if email , spam/ham (Naive Bayes) - https://github.com/YumnaZai/ML-Projects/blob/main/Classification-Naive_Bayes.ipynb
 
+Model 4 : Twitter Sentiment Analysis  (Naive Bayes/Random Forest) - https://github.com/YumnaZai/ML-Projects/blob/main/Classification-Random_Forest_Naive_Bayes.ipynb
 
+Model 5 : Multi-class image classification (CNN) - https://github.com/YumnaZai/ML-Projects/blob/main/G-CNN_G.ipynb
 
+Model 6 : Student Score / Petrol Cunsumption Prediction (Linear Regression) - https://github.com/YumnaZai/ML-Projects/blob/main/Linear_Regression%20-%20Simple_Multiple_Regression%20.ipynb
 
+Model 7 : Multi-class(Plants) image classification (CNN) - https://github.com/YumnaZai/ML-Projects/blob/main/Plant_Disease-CNN.ipynb
 
+Model 8 : Predict house value (Linear Regression) - https://github.com/YumnaZai/ML-Projects/blob/main/Regression-Linear_Regression.ipynb
 
-
-
-
-
-
+Model 9 : Predict molecule solubility (Linear Regression $ Random Forest) - https://github.com/YumnaZai/ML-Projects/blob/main/Regression_Random_Forest.ipynb
 
 
 
